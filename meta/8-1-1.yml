@@ -1,1 +1,7 @@
-
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputYamlMdMeta
+    path_pattern: meta/*-*.md
+    git: true
+    git_data_dir: data

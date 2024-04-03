@@ -3,5 +3,5 @@ indicator_number: 8.1.1.1
 computation_units: Percentage
 source_active_1: true
 source_organisation_1: Statisics Canada
-source_url_1: "V"https://wetlandstaticsagency.org"
+source_url_1: "https://wetlandstaticsagency.org"
 reporting_status: complete

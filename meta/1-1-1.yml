@@ -108,7 +108,3 @@ COMPARABILITY: >-
 
 OTHER_DOC: >-
 
-expected_disaggregrations:
-  - Geography
-  - Persons in low income
-  - GeoCode

@@ -1,7 +1,7 @@
 Disaggregation,Number of indicators,Number of values
-Age (8),1,8
-Economic family characteristics of persons (13),1,1
-Gender (3a),1,3
+Age,1,7
+Gender,1,2
+GEO,1,12
 Geography,1,21
-Individual MBM poverty status (7),1,7
+Individual MBM poverty status,1,6
 Persons in low income,1,12

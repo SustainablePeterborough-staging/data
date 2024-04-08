@@ -15,11 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Gender (3a)",
+            "name": "GEO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - Gender",
+                "Ontario",
+                "Peterborough",
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Selwyn",
+                "Curve Lake First Nation 35",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Men+",
                 "Women+",
                 ""
@@ -27,30 +47,10 @@
             }
           },
           {
-            "name": "Economic family characteristics of persons (13)",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - Persons by selected economic family characteristics",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age (8)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total - Age",
                 "0 to 17 years",
                 "0 to 5 years",
                 "6 to 17 years",
@@ -63,11 +63,10 @@
             }
           },
           {
-            "name": "Individual MBM poverty status (7)",
+            "name": "Individual MBM poverty status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - Individual MBM poverty status",
                 "Poverty status - not applicable",
                 "Poverty status - applicable",
                 "In poverty",

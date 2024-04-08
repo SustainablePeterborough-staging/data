@@ -1,4 +1,4 @@
 From,To
-Gender (3a),Economic family characteristics of persons (13)
-Economic family characteristics of persons (13),Age (8)
-Age (8),Individual MBM poverty status (7)
+GEO,Gender
+GEO,Age
+GEO,Individual MBM poverty status

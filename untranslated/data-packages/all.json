@@ -17,27 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "GEO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ontario",
-                "Peterborough",
-                "Asphodel-Norwood",
-                "Otonabee-South Monaghan",
-                "Hiawatha First Nation",
-                "Cavan Monaghan",
-                "Selwyn",
-                "Curve Lake First Nation 35",
-                "Douro-Dummer",
-                "Havelock-Belmont-Methuen",
-                "North Kawartha",
-                "Trent Lakes",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Gender (3a)",
             "type": "string",
             "constraints": {
@@ -60,12 +39,10 @@
             }
           },
           {
-            "name": "Statistics (6C)",
-            "type": "string",
+            "name": "Unnamed: 3",
+            "type": "number",
             "constraints": {
               "enum": [
-                "2020",
-                "2015",
                 ""
               ]
             }

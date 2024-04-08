@@ -18,28 +18,6 @@
             "title": "Year"
           },
           {
-            "name": "GEO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ontario",
-                "Peterborough",
-                "Asphodel-Norwood",
-                "Otonabee-South Monaghan",
-                "Hiawatha First Nation",
-                "Cavan Monaghan",
-                "Selwyn",
-                "Curve Lake First Nation 35",
-                "Douro-Dummer",
-                "Havelock-Belmont-Methuen",
-                "North Kawartha",
-                "Trent Lakes",
-                ""
-              ]
-            },
-            "title": "GEO"
-          },
-          {
             "name": "Gender (3a)",
             "type": "string",
             "constraints": {
@@ -64,16 +42,14 @@
             "title": "Economic family characteristics of persons (13)"
           },
           {
-            "name": "Statistics (6C)",
-            "type": "string",
+            "name": "Unnamed: 3",
+            "type": "number",
             "constraints": {
               "enum": [
-                "2020",
-                "2015",
                 ""
               ]
             },
-            "title": "Statistics (6C)"
+            "title": "Unnamed: 3"
           },
           {
             "name": "Age (8)",

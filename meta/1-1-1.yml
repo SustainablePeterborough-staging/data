@@ -110,7 +110,7 @@ OTHER_DOC: >-
 
 indicator_name: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)
 indicator_number: 1.1.1
-computation_units: Population
+computation_units: Percentage
 source_active_1: true
 source_organisation_1: Statistics Camada
 source_url_1: "https://www.statcan.gc.ca/"

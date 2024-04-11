@@ -1,6 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-Age (8),1,8
-Gender (3a),1,2
-GEO,1,10
-Geography,1,21
+Age,1,7
+Gender,1,2
+Geography,2,32
 Persons in low income,1,12

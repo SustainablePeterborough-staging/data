@@ -22,11 +22,9 @@
                 "Ontario",
                 "Asphodel-Norwood",
                 "Otonabee-South Monaghan",
-                "Hiawatha First Nation",
                 "Cavan Monaghan",
                 "Peterborough",
                 "Selwyn",
-                "Curve Lake First Nation 35",
                 "Douro-Dummer",
                 "Havelock-Belmont-Methuen",
                 "North Kawartha",
@@ -42,18 +40,6 @@
               "enum": [
                 "Men+",
                 "Women+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Economic family characteristics of persons (13)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total - Persons by selected economic family characteristics",
-                "Total - Persons in economic families",
-                "Total - Household living arrangements for persons not in economic families",
                 ""
               ]
             }
@@ -76,19 +62,8 @@
             }
           },
           {
-            "name": "Individual MBM poverty status (7)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "In poverty",
-                "Poverty rate (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

@@ -20,11 +20,11 @@
             "constraints": {
               "enum": [
                 "Ontario",
-                "Peterborough",
                 "Asphodel-Norwood",
                 "Otonabee-South Monaghan",
                 "Hiawatha First Nation",
                 "Cavan Monaghan",
+                "Peterborough",
                 "Selwyn",
                 "Curve Lake First Nation 35",
                 "Douro-Dummer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "name": "Gender",
+            "name": "Gender (3a)",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,10 +47,23 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Economic family characteristics of persons (13)",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total - Persons by selected economic family characteristics",
+                "Total - Persons in economic families",
+                "Total - Household living arrangements for persons not in economic families",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age (8)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Age",
                 "0 to 17 years",
                 "0 to 5 years",
                 "6 to 17 years",
@@ -63,16 +76,12 @@
             }
           },
           {
-            "name": "Individual MBM poverty status",
+            "name": "Individual MBM poverty status (7)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Poverty status - not applicable",
-                "Poverty status - applicable",
                 "In poverty",
-                "Not in poverty",
                 "Poverty rate (%)",
-                "Average poverty gap ratio (%)",
                 ""
               ]
             }

@@ -40,14 +40,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Men+",
+                "Women+",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "Age (8)",
             "type": "string",
             "constraints": {
               "enum": [

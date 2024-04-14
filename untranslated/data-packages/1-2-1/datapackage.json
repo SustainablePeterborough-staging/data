@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "GEO",
+            "name": "Geography",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,8 +52,6 @@
             "constraints": {
               "enum": [
                 "0 to 17 years",
-                "0 to 5 years",
-                "6 to 17 years",
                 "18 to 24 years",
                 "25 to 54 years",
                 "55 to 64 years",

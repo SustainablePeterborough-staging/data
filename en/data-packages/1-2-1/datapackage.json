@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Geography",
+            "name": "GEO",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Geography"
+            "title": "GEO"
           },
           {
             "name": "Gender",
@@ -50,7 +50,7 @@
             "title": "Gender"
           },
           {
-            "name": "Age (8)",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Age (8)"
+            "title": "Age"
           },
           {
             "name": "Value",

@@ -10,7 +10,27 @@ data_show_map: false
 #data_start_values: []
 data_start_values:
   - field: Geography
-    value: ["Asphodel-Norwood","Otonabee-South Monaghan","Hiawatha First Nation","Cavan Monaghan","Peterborough (City)","Selwyn","Curve Lake First Nation","Douro-Dummer","Havelock-Belmont-Methuen","North Kawartha","Trent Lakes"]
+    value: Asphodel-Norwood
+  - field: Geography
+    value: Otonabee-South Monaghan
+  - field: Geography
+    value: Hiawatha First Nation
+  - field: Geography
+    value: Cavan Monaghan
+  - field: Geography
+    value: Peterborough (City)
+  - field: Geography
+    value: Selwyn
+  - field: Geography
+    value: Curve Lake First Nation
+  - field: Geography
+    value: Douro-Dummer
+  - field: Geography
+    value: Havelock-Belmont-Methuen
+  - field: Geography
+    value: North Kawartha
+  - field: Geography
+    value: Trent Lakes
   - field: Gender
     value: "Total (all genders)"
   - field: Age

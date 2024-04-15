@@ -19,12 +19,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Canada",
                 "Ontario",
                 "Asphodel-Norwood",
                 "Otonabee-South Monaghan",
                 "Hiawatha First Nation",
                 "Cavan Monaghan",
-                "Peterborough",
+                "Peterborough (City)",
                 "Selwyn",
                 "Curve Lake First Nation 35",
                 "Douro-Dummer",
@@ -36,7 +37,7 @@
             }
           },
           {
-            "name": "Gender",
+            "name": "Gender ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,7 +48,7 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Age ",
             "type": "string",
             "constraints": {
               "enum": [

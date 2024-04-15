@@ -37,10 +37,11 @@
             }
           },
           {
-            "name": "Gender ",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total - Gender",
                 "Men+",
                 "Women+",
                 ""
@@ -48,10 +49,11 @@
             }
           },
           {
-            "name": "Age ",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total - Age",
                 "0 to 17 years",
                 "18 to 24 years",
                 "25 to 54 years",

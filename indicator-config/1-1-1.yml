@@ -7,7 +7,34 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+#data_start_values: []
+data_start_values:
+  - field: Geography
+    value: Asphodel-Norwood
+  - field: Geography
+    value: Otonabee-South Monaghan
+  - field: Geography
+    value: Hiawatha First Nation
+  - field: Geography
+    value: Cavan Monaghan
+  - field: Geography
+    value: Peterborough (City)
+  - field: Geography
+    value: Selwyn
+  - field: Geography
+    value: Curve Lake First Nation
+  - field: Geography
+    value: Douro-Dummer
+  - field: Geography
+    value: Havelock-Belmont-Methuen
+  - field: Geography
+    value: North Kawartha
+  - field: Geography
+    value: Trent Lakes
+  - field: Gender
+    value: "Total (all genders)"
+  - field: Age
+    value: "Total (all ages)"
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

@@ -37,7 +37,7 @@
             }
           },
           {
-            "name": "Labour force status ",
+            "name": "Labour force status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,7 +65,7 @@
             }
           },
           {
-            "name": "Gender ",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [

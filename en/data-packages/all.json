@@ -133,7 +133,7 @@
             "title": "Geography"
           },
           {
-            "name": "Labour force status ",
+            "name": "Labour force status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -143,7 +143,7 @@
                 ""
               ]
             },
-            "title": "Labour force status "
+            "title": "Labour force status"
           },
           {
             "name": "Age",
@@ -163,7 +163,7 @@
             "title": "Age"
           },
           {
-            "name": "Gender ",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -173,7 +173,7 @@
                 ""
               ]
             },
-            "title": "Gender "
+            "title": "Gender"
           },
           {
             "name": "Value",

@@ -270,6 +270,11 @@ prose:
             element: text
             label: Indicator name
             scope: national
+      - name: SDG_INDICATOR_TARGET
+        field:
+            element: text
+            label: Target
+            scope: national
       - name: SDG_INDICATOR_DESCR
         field:
             element: text
@@ -288,7 +293,7 @@ prose:
       - name: SDG_INDICATOR_QUAL
         field:
             element: text
-            label: Qualtitative data
+            label: Qualitative data
             scope: national
 # -- end customs
       - name: SDG_INDICATOR_INFO

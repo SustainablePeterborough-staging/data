@@ -35,8 +35,8 @@ data_start_values:
     value: "Total (all genders)"
   - field: Age
     value: "Total (all ages)"
-  - field: Labour force status
-    value: "Unemployment rate"
+  - field: Main mode of commuting
+    value: "Total - Main mode of commuting"
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

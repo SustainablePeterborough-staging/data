@@ -39,16 +39,6 @@
             }
           },
           {
-            "name": "Time leaving for work ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total - Time leaving for work",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age ",
             "type": "string",
             "constraints": {
@@ -86,16 +76,6 @@
                 "Public transit",
                 "Active transportation",
                 "Other method",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Commuting duration",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average commuting duration (in minutes)",
                 ""
               ]
             }

@@ -1,6 +1,4 @@
 From,To
-Geography,Time leaving for work 
-Time leaving for work ,Age 
+Geography,Age 
 Age ,Gender 
 Gender ,Main mode of commuting 
-Main mode of commuting ,Commuting duration

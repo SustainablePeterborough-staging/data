@@ -1,4 +1,4 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"Geography, Age, Gender",3
 #8-5-2,"Geography, Gender , Labour force status , Age",4
-#8-5-3,"Geography, Time leaving for work , Age , Gender , Main mode of commuting , Commuting duration",6
+#8-5-3,"Geography, Age , Gender , Main mode of commuting ",4

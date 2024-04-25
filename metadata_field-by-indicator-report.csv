@@ -1,5 +1,4 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1,notstarted,,True,,,,line
 #1-1-1,complete,International Labour Organization (ILO),,,,Percentage,line
 #1-2-1,notstarted,World Bank,,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
@@ -285,7 +284,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-4-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-5-1,notstarted,International Labour Organization (ILO),,,,,line
-#8-5-2,notstarted,International Labour Organization (ILO) ,,,,,line
+#8-5-2,complete,International Labour Organization (ILO) ,,,,Percentage,line
 #8-6-1,notstarted,International Labour Organization (ILO),,,,,line
 #8-7-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 International Labour Organization (ILO)",,,,,line

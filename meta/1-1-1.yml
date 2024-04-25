@@ -20,3 +20,6 @@ source_active_1: true
 source_organisation_1: Statistics Camada
 source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
+target: <b>Ambition:</b> Reduce local poverty in all its forms
+target_number: 1.1
+

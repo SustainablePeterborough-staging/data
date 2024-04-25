@@ -20,3 +20,4 @@ indicator_number: 8.5.2
 #source_organisation_1: Statistics Camada
 #source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
+graph_title: Labour force status

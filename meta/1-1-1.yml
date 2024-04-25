@@ -13,13 +13,11 @@ SOURCE_TYPE: >-
 SDG_INDICATOR_QUAL: >-
   not available at this time
 indicator_name: Poverty rate, as measured by Canada’s official poverty line
-indicator_target: no specific target available at this time
+#indicator_target: no specific target available at this time
 indicator_number: 1.1.1
 computation_units: Percentage
-source_active_1: true
-source_organisation_1: Statistics Camada
-source_url_1: "https://www.statcan.gc.ca/"
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
-target: <b>Ambition:</b> Reduce local poverty in all its forms
-target_number: 1.1
 

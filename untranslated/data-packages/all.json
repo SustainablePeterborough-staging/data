@@ -3,6 +3,112 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "8-5-3/data.csv",
+      "name": "8-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Ontario",
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Peterborough",
+                "Selwyn",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Time leaving for work ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Time leaving for work",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (all ages)",
+                "15 to 24 years",
+                "25 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (all genders)",
+                "Men+",
+                "Women+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Main mode of commuting ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Main mode of commuting",
+                "Car, truck or van",
+                "Driver (only worker in vehicle)",
+                "Passenger (only worker in vehicle)",
+                "Sustainable transportation",
+                "Public transit",
+                "Active transportation",
+                "Other method",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Commuting duration",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average commuting duration (in minutes)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Main mode of commuting by commuting duration, time leaving for work, age and gender"
+    },
+    {
       "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
@@ -5546,28 +5652,6 @@
         ]
       },
       "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
-    },
-    {
-      "path": "8-5-3/data.csv",
-      "name": "8-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Main mode of commuting by commuting duration, time leaving for work, age and gender"
     },
     {
       "path": "11-5-3/data.csv",

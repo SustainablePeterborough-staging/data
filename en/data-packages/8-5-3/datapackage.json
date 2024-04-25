@@ -12,8 +12,98 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Ontario",
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Peterborough",
+                "Selwyn",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Time leaving for work ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Time leaving for work",
+                ""
+              ]
+            },
+            "title": "Time leaving for work "
+          },
+          {
+            "name": "Age ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (all ages)",
+                "15 to 24 years",
+                "25 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            },
+            "title": "Age "
+          },
+          {
+            "name": "Gender ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (all genders)",
+                "Men+",
+                "Women+",
+                ""
+              ]
+            },
+            "title": "Gender "
+          },
+          {
+            "name": "Main mode of commuting ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Main mode of commuting",
+                "Car, truck or van",
+                "Driver (only worker in vehicle)",
+                "Passenger (only worker in vehicle)",
+                "Sustainable transportation",
+                "Public transit",
+                "Active transportation",
+                "Other method",
+                ""
+              ]
+            },
+            "title": "Main mode of commuting "
+          },
+          {
+            "name": "Commuting duration",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average commuting duration (in minutes)",
+                ""
+              ]
+            },
+            "title": "Commuting duration"
           },
           {
             "name": "Value",

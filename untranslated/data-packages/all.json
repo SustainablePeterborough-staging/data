@@ -39,7 +39,7 @@
             }
           },
           {
-            "name": "Age ",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +52,7 @@
             }
           },
           {
-            "name": "Gender ",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -64,7 +64,7 @@
             }
           },
           {
-            "name": "Main mode of commuting ",
+            "name": "Main mode of commuting",
             "type": "string",
             "constraints": {
               "enum": [

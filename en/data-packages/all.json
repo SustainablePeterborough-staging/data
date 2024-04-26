@@ -41,7 +41,7 @@
             "title": "Geography"
           },
           {
-            "name": "Age ",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,10 +52,10 @@
                 ""
               ]
             },
-            "title": "Age "
+            "title": "Age"
           },
           {
-            "name": "Gender ",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,10 +65,10 @@
                 ""
               ]
             },
-            "title": "Gender "
+            "title": "Gender"
           },
           {
-            "name": "Main mode of commuting ",
+            "name": "Main mode of commuting",
             "type": "string",
             "constraints": {
               "enum": [
@@ -83,7 +83,7 @@
                 ""
               ]
             },
-            "title": "Main mode of commuting "
+            "title": "Main mode of commuting"
           },
           {
             "name": "Value",

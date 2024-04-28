@@ -264,6 +264,38 @@ prose:
 #           translation_key: metadata_fields.OTHER_DOC
 #           scope: global
       ######### National Metadata #########
+# -- start customs
+      - name: SDG_INDICATOR_NAME
+        field:
+            element: text
+            label: Indicator name
+            scope: national
+      - name: SDG_INDICATOR_TARGET
+        field:
+            element: text
+            label: Target
+            scope: national
+      - name: SDG_INDICATOR_DESCR
+        field:
+            element: text
+            label: Indicator description
+            scope: national
+      - name: SDG_INDICATOR_GEOCOV
+        field:
+            element: text
+            label: Geographic coverage
+            scope: national
+      - name: SDG_INDICATOR_ADDINFO
+        field:
+            element: text
+            label: Additional Information
+            scope: national
+      - name: SDG_INDICATOR_QUAL
+        field:
+            element: text
+            label: Qualitative data
+            scope: national
+# -- end customs
       - name: SDG_INDICATOR_INFO
         field:
             element: text

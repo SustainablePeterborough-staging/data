@@ -1,0 +1,21 @@
+SDG_INDICATOR_NAME: >-
+  Median household income
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+  This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability. This indicator measures median household income.
+SDG_INDICATOR_GEOCOV: >-
+  Greater Peterborough Area (City of Peterborough, 8 Townships, Hiawatha and Curve Lake First Nations)
+SOURCE_TYPE: >-
+  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=9810005701&selectedNodeIds=1D2265,1D2351,1D2352,1D2353,1D2354,1D2355,1D2356,1D2357,1D2358,1D2359,1D2360,1D2361,4D3,4D4&checkedLevels=0D1,1D1,1D2,2D1,3D1&refPeriods=20210101,20210101&dimensionLayouts=layout3,layout2,layout2,layout2,layout2&vectorDisplay=false">Statistics Canada</a>
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: Median household income
+indicator_target: no specific target available at this time
+indicator_number: 8.5.1
+#computation_units: Percentage
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: complete
+graph_title: Median household income

@@ -7,7 +7,7 @@ SDG_INDICATOR_DESCR: >-
 SDG_INDICATOR_GEOCOV: >-
   Peterborough CMA (City of Peterborough, Township of Cavan Monaghan, Township of Selwyn, Township of Douro- Dummer, Township of Otonabee-South Monaghan, Curve Lake First Nation, Hiawatha First Nation)
 SOURCE_TYPE: >-
-  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=3610046801&selectedNodeIds=1D21,1D24&checkedLevels=0D1&refPeriods=20100101,20200101&dimensionLayouts=layout3,layout2&vectorDisplay=false">Statistic Canada</a> 2021 Census - 25% Sample data
+  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=3610046801&selectedNodeIds=1D21,1D24&checkedLevels=0D1&refPeriods=20100101,20200101&dimensionLayouts=layout3,layout2&vectorDisplay=false">Statistic Canada</a>
 #SDG_INDICATOR_QUAL: >-
 indicator_name: Labour force status
 indicator_target: no specific target available at this time
@@ -17,4 +17,4 @@ indicator_number: 8.5.2
 #source_organisation_1: Statistics Camada
 #source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
-graph_title: Labour force status
+graph_title: Gross domestic product (GDP) at basic prices, by census metropolitan area (CMA) (x 1,000,000)

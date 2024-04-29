@@ -3,7 +3,8 @@ SDG_INDICATOR_NAME: >-
 SDG_INDICATOR_TARGET: >-
   No specific target available at this time
 SDG_INDICATOR_DESCR: >-
-  This indicator measures the Gross domestic product (GDP) at basic prices, by census metropolitan area (CMA) (x 1,000,000) 
+  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability.</p>
+  <p>This indicator measures the Gross domestic product (GDP) at basic prices, by census metropolitan area (CMA) (x 1,000,000)</p>
 SDG_INDICATOR_GEOCOV: >-
   Peterborough CMA (City of Peterborough, Township of Cavan Monaghan, Township of Selwyn, Township of Douro- Dummer, Township of Otonabee-South Monaghan, Curve Lake First Nation, Hiawatha First Nation)
 SOURCE_TYPE: >-

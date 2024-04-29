@@ -3,13 +3,14 @@ SDG_INDICATOR_NAME: >-
 SDG_INDICATOR_TARGET: >-
   No specific target available at this time
 SDG_INDICATOR_DESCR: >-
-  This indicator measures the percentage of persons in low income using the Market Basket Measure (MBM), which was adopted as Canada’s Official Poverty Line. According to the MBM, a family lives in poverty if it does not have enough income to purchase a specific basket of goods and services in its community.
+  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability.</p>
+  <p>This indicator measures the percentage of persons in low income using the Market Basket Measure (MBM), which was adopted as Canada’s Official Poverty Line. According to the MBM, a family lives in poverty if it does not have enough income to purchase a specific basket of goods and services in its community.</p>
 SDG_INDICATOR_GEOCOV: >-
   Greater Peterborough Area (City of Peterborough, 8 Townships), Ontario, Canada. This data set is unavailable for Hiawatha and Curve Lake First Nations.
 SDG_INDICATOR_ADDINFO: >-
   The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line.
 SOURCE_TYPE: >-
-  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=9810011301&selectedNodeIds=1D2265,1D2351,1D2352,1D2353,1D2354,1D2355,1D2356,1D2357,1D2358,1D2359,1D2360,1D2361,3D2,4D1,4D4,6D4,6D6&checkedLevels=1D1,1D2,2D1,4D1,4D2,4D3&refPeriods=20210101,20210101&dimensionLayouts=layout3,layout3,layout2,layout2,layout2,layout2,layout2&vectorDisplay=false">Statistics Canada</a>
+  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=9810011301&selectedNodeIds=1D2265,1D2351,1D2352,1D2353,1D2354,1D2355,1D2356,1D2357,1D2358,1D2359,1D2360,1D2361,3D2,4D1,4D4,6D4,6D6&checkedLevels=1D1,1D2,2D1,4D1,4D2,4D3&refPeriods=20210101,20210101&dimensionLayouts=layout3,layout3,layout2,layout2,layout2,layout2,layout2&vectorDisplay=false">Statistics Canada</a> 2021 and 2016 censuses - 25% sample data
 SDG_INDICATOR_QUAL: >-
   Not available at this time
 indicator_name: Poverty rate, as measured by Canada’s official poverty line

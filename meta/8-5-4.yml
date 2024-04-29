@@ -1,0 +1,23 @@
+SDG_INDICATOR_NAME: >-
+ 8.5.4 indincatior name
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+  <p>This is a newly established indicator deemed meaningful to the local context in support of this specific SDG, as supported by data availability.</p>
+  <p>This indicator measures main mode of commuting by commuting duration, time leaving for work, age and gender</p>
+SDG_INDICATOR_GEOCOV: >-
+  Greater Peterborough Area (City of Peterborough, 8 Townships, Hiawatha and Curve Lake First Nations)
+#SDG_INDICATOR_ADDINFO: >-
+SOURCE_TYPE: >-
+  <a target="_blank" href="">Statistics Canada</a> 2021 Census - 25% Sample data
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: 8.5.4 indincatior name
+indicator_target: no specific target available at this time
+indicator_number: 8.5.4
+#computation_units: Percentage
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: complete
+graph_title: 8.5.4 graph title

@@ -20,4 +20,4 @@ computation_units: Population density and dwelling counts
 #source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
 graph_title: Population density and dwelling counts
-#graph_type: bar
+graph_type: bar

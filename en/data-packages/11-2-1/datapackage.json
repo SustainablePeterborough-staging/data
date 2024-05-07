@@ -12,8 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cavan Monaghan",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Hiawatha First Nation",
+                "Otonabee-South Monaghan",
+                "Peterborough (City)",
+                "Selwyn",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Demographic",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total population",
+                "Count of population within 500 metres of a public transit stop",
+                "Percentage of population within 500 metres of a public transit stop",
+                ""
+              ]
+            },
+            "title": "Demographic"
           },
           {
             "name": "Value",

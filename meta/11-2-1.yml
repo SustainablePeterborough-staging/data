@@ -3,7 +3,7 @@ SDG_INDICATOR_NAME: >-
 SDG_INDICATOR_TARGET: >-
   No specific target available at this time
 SDG_INDICATOR_DESCR: >-
-  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability. This indicator measures count and percentage of population within 500 meters of a public transit stop.</p>
+  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability. This indicator measures percentage of population within 500 meters of a public transit stop.</p>
 SDG_INDICATOR_GEOCOV: >-
   Greater Peterborough Area (City of Peterborough, 8 Townships), Ontario, Canada. This data set is unavailable for Hiawatha and Curve Lake First Nations.
 SDG_INDICATOR_ADDINFO: 
@@ -14,9 +14,10 @@ SDG_INDICATOR_QUAL: >-
 indicator_name: Access to public transit
 #indicator_target: no specific target available at this time
 indicator_number: 11-2-1
-computation_units: Population
+computation_units: Percentage
 #source_active_1: true
 #source_organisation_1: Statistics Camada
 #source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
 graph_title: Access to public transit
+graph_type: bar

@@ -31,6 +31,8 @@ data_start_values:
     value: North Kawartha
   - field: Geography
     value: Trent Lakes
+  - field: Population and dwelling counts
+    value: Population density per square kilometre
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

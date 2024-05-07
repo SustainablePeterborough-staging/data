@@ -196,18 +196,6 @@
             }
           },
           {
-            "name": "Demographic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total population",
-                "Count of population within 500 metres of a public transit stop",
-                "Percentage of population within 500 metres of a public transit stop",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

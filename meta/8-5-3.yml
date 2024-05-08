@@ -15,7 +15,7 @@ SDG_INDICATOR_QUAL: >-
 indicator_name: Main mode of commuting
 indicator_target: no specific target available at this time
 indicator_number: 8.5.3
-#computation_units: Percentage
+computation_units: Percentage
 #source_active_1: true
 #source_organisation_1: Statistics Camada
 #source_url_1: "https://www.statcan.gc.ca/"

@@ -31,12 +31,16 @@ data_start_values:
     value: North Kawartha
   - field: Geography
     value: Trent Lakes
-  - field: Gender
-    value: "Total (all genders)"
-  - field: Age
-    value: "Total (all ages)"
+#  - field: Main mode of commuting
+#    value: Active transportation
+#  - field: Main mode of commuting
+#    value: Car, truck or van
+#  - field: Main mode of commuting
+#    value: Other method
+#  - field: Main mode of commuting
+#    value: Public transit
   - field: Main mode of commuting
-    value: "Total - Main mode of commuting"
+    value: Sustainable transportation
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -48,7 +52,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.8-5-2-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: global_indicators.8-5-2-title
 indicator_number: '8.5.2'
 national_geographical_coverage: ''

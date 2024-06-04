@@ -9,8 +9,8 @@ data_notice_text: ''
 data_show_map: false
 #data_start_values: []
 data_start_values:
-  - field: Year
-    value: 2024
+  - field: "-Year-"
+    value: "2024"
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

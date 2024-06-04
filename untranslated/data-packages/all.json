@@ -71,7 +71,7 @@
             "type": "string"
           },
           {
-            "name": "-Year-",
+            "name": "Annum",
             "type": "string",
             "constraints": {
               "enum": [

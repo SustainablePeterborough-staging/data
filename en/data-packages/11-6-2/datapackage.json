@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "YEAR",
+            "name": "-Year-",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,7 +34,7 @@
                 ""
               ]
             },
-            "title": "YEAR"
+            "title": "-Year-"
           },
           {
             "name": "Value",

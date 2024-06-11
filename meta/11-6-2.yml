@@ -1,22 +1,22 @@
 SDG_INDICATOR_NAME: >-
-  11.6.2 indicator name
+  Air Quality - daily levels of fine particulate matter (PM 2.5)
 SDG_INDICATOR_TARGET: >-
   No specific target available at this time
 SDG_INDICATOR_DESCR: >-
-  <p>11.6.2 indicator description</p>
+  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability. This indicator measures air quality, particularly the PM 2.5 (fine particulate matter) daily values.</p>
 SDG_INDICATOR_GEOCOV: >-
-  Greater Peterborough Area (City of Peterborough, 8 Townships, Hiawatha and Curve Lake First Nations)
+   <a href="https://www.airqualityontario.com/history/station.php?stationid=59006">Peterborough (city)</a>. There are no air quality measurement stations located in the county.
 SDG_INDICATOR_ADDINFO: 
 SOURCE_TYPE: >-
-  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=9810000201&selectedNodeIds=1D2683,1D2684,1D2685,1D2686,1D2687,1D2688,1D2689,1D2690,1D2691,1D2692,1D2693&checkedLevels=1D1&refPeriods=20210101,20210101&dimensionLayouts=layout3,layout2,layout2&vectorDisplay=false">Statistics Canada</a>
+  <a target="_blank" href="https://aqicn.org/station/canada/ontario/peterborough/">https://aqicn.org/station/canada/ontario/peterborough/</a>
 SDG_INDICATOR_QUAL: >-
   Not available at this time
-indicator_name: Population density and dwelling counts
+indicator_name: Air Quality - daily levels of fine particulate matter (PM 2.5)
 #indicator_target: no specific target available at this time
 indicator_number: 11-6-2
-computation_units: AQI
+computation_units: PM 2.5
 #source_active_1: true
 #source_organisation_1: Statistics Camada
 #source_url_1: "https://www.statcan.gc.ca/"
 reporting_status: complete
-graph_title: 11.6.2 graph title
+graph_title: Peterborough Air Quality (fine particulate matter daily values)

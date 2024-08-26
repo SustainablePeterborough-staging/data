@@ -10,7 +10,11 @@ data_show_map: false
 #data_start_values: []
 data_start_values:
   - field: "Type of Protection"
-    value: "Total number of protected acres"
+    value: "Total number of protected acres "
+  - field: "Geography"
+    value: "Peterborough (County)"
+  - field: "Geography"
+    value: "Peterborough (City)"
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

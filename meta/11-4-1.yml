@@ -1,0 +1,22 @@
+SDG_INDICATOR_NAME: >-
+  Acres of protected land
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+  <p>This is a proxy local indicator closest to the corresponding global SDG indicator, as supported by data availability.</p>
+SDG_INDICATOR_GEOCOV: >-
+   Peterborough (County) and Peterborough (City)
+SDG_INDICATOR_ADDINFO: 
+SOURCE_TYPE: >-
+  Kawartha Land Trust
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: Acres of protected land
+#indicator_target: no specific target available at this time
+indicator_number: 11-4-1
+computation_units: Acres
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: complete
+graph_title: Acres of protected land

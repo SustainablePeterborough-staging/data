@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Protection",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total number of protected acres ",
+                "Other NGO",
+                "Kawartha Land Trust",
+                "Provincial Park/Conservation reserve",
+                "Conservation Authority",
+                "Provincially Significant Wetland",
+                "Areas of Natural and Scientific Interest",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Peterborough (County)",
+                "Peterborough (City)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

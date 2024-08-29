@@ -1,5 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,complete,International Labour Organization (ILO),,,,Percentage,line
+#1-1-2,complete,,,,,,line
 #1-2-1,notstarted,World Bank,,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
 #1-3-1,notstarted,International Labour Organization (ILO),,,,,line
@@ -15,6 +16,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-b-1,notstarted,"UNICEF, Save the Children",,,,,line
 #10-1-1,notstarted,World Bank (WB),,,,,line
 #10-2-1,notstarted,World Bank (WB),,,,,line
+#10-2-2,complete,,,,,,line
 #10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #10-4-1,notstarted,International Labour Organization (ILO),,,,,line
 #10-4-2,notstarted,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line

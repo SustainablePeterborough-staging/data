@@ -1,0 +1,23 @@
+SDG_INDICATOR_NAME: >-
+  Sense of belonging
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+  This is a newly established indicator deemed meaningful to the local context in support of this specific SDG, as supported by data availability. This indicator measures how many individuals feel they have a somewhat strong or very strong sense of belonging to the local community.
+SDG_INDICATOR_GEOCOV: >-
+  Peterborough Census Metropolitan Area (City of Peterborough, Township of Cavan Monaghan, Township of Selwyn, Township of Douro- Dummer, Township of Otonabee-South Monaghan, Curve Lake First Nation, Hiawatha First Nation)
+SDG_INDICATOR_ADDINFO: 
+SOURCE_TYPE: >-
+  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=1310080501&selectedNodeIds=1D74,4D23,5D1&checkedLevels=1D2,2D2&refPeriods=20150101,20190101&dimensionLayouts=layout3,layout2,layout2,layout2,layout2,layout2&vectorDisplay=false">Statistics Canada</a>
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: Sense of belonging
+#indicator_target: no specific target available at this time
+indicator_number: 11-3-3
+computation_units: Number of persons
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: complete
+graph_title: Sense of belonging
+graph_type: bar

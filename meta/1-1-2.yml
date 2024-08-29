@@ -1,0 +1,24 @@
+SDG_INDICATOR_NAME: >-
+  Income inequality statistics using the Gini index
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+  This is a newly established indicator deemed meaningful to the local context in support of this specific SDG, as supported by data availability.
+SDG_INDICATOR_GEOCOV: >-
+  Greater Peterborough Area (City of Peterborough, 8 Townships, 2 First Nations), Ontario, Canada.
+SDG_INDICATOR_ADDINFO: >-
+  "The Gini coefficient, or Gini index, is a measure of inequality that indicates how equally income is distributed for a given population. It measures how much an income distribution deviates from perfect equality. Values of the Gini coefficient can range from 0 to 1. A value of 0 indicates that income is equally divided among the population, with all units receiving exactly the same amount of income. At the opposite extreme, a Gini coefficient of 1 denotes a perfectly unequal distribution, where one unit has all of the income in the economy. For the census, Gini coefficients are calculated for three types of adjusted household income—market income, total income and after-tax income. Adjusted income is computed by dividing the household income by a factor equal to the square root of the household size (known as the equivalence scale). This adjustment for different household sizes takes into account economies of scale. It reflects the fact that the needs of a household increase, but at a decreasing rate, as the number of members increases. The P90/P10 ratio is a measure of inequality. It is the ratio of the 90th and the 10th percentile of the adjusted household after-tax income. The 90th percentile means 90% of the population has income that falls below this threshold. The 10th percentile means 10% of the population has income that falls below this threshold." (Statistics Canada)
+SOURCE_TYPE: >-
+  <a target="_blank" href="https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=9810009601&selectedNodeIds=1D1,1D2265,1D2351,1D2352,1D2353,1D2354,1D2355,1D2356,1D2357,1D2358,1D2359,1D2360,1D2361&checkedLevels=1D2,2D1&refPeriods=20210101,20210101&dimensionLayouts=layout3,layout2,layout2,layout2&vectorDisplay=false">Statistics Canada</a>
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: Income inequality statistics using the Gini index
+#indicator_target: no specific target available at this time
+indicator_number: 1.1.2
+#computation_units: Percentage
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: complete
+graph_title: Income inequality statistics using the Gini index
+

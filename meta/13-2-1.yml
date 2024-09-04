@@ -1,0 +1,20 @@
+SDG_INDICATOR_NAME: >-
+  Number of municipalities that have a Climate Change Action Plan
+SDG_INDICATOR_TARGET: >-
+  No specific target available at this time
+SDG_INDICATOR_DESCR: >-
+SDG_INDICATOR_GEOCOV: >-
+SDG_INDICATOR_ADDINFO: >-
+SOURCE_TYPE: >-
+SDG_INDICATOR_QUAL: >-
+  Not available at this time
+indicator_name: Number of municipalities that have a Climate Change Action Plan
+#indicator_target: no specific target available at this time
+indicator_number: 132.1
+computation_units: 
+#source_active_1: true
+#source_organisation_1: Statistics Camada
+#source_url_1: "https://www.statcan.gc.ca/"
+reporting_status: exploring
+#graph_title: 
+
